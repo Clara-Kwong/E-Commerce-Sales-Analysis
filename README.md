@@ -29,6 +29,11 @@ recommendations.
 - Period: Dec 2010 – Dec 2011
 - Records: ~541,000 transactions (401,560 after cleaning)
 
+> **Note:** Data files are not included in this repo due to size.
+> Download the raw dataset from the Kaggle link above, then run
+> `E-Commerce_Sales_Analysis.ipynb` to generate `data/data_clean.csv`
+> for the SQL analysis.
+
 ## Repository Structure
 ```
 E-Commerce-Sales-Analysis/
